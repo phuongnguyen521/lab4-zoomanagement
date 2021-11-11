@@ -1,0 +1,4 @@
+0000;Snake Flower;0 leg;10.0 kg;can, creep, can, breathe;poisonous;black
+B001;Penguin;2 legs;6.0 kg;can walk, make sound;cute;black and white or yellow;2 wings;
+F002;Pigoen;1 legs;1.0 kg;can fly;heroic;2 wings
+4000;Tiger;4 legs;100.0 kg; can run, can growl, eat raw meat, arrive;danger
