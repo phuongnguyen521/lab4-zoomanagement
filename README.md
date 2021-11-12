@@ -5,4 +5,4 @@
 * Lab211 - SP21 - P0004 - Tutorial.pptx: This is my FPT lecturer's pptx, Thân Văn Sử.
 
 
-### Give the best thanks to my mentor Nguyễn Xuân Phú and my lecturer, Thân Văn Sử
+### Give the best thanks to my mentor, Nguyễn Xuân Phú and my lecturer, Thân Văn Sử
